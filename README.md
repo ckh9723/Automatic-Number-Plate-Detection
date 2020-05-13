@@ -8,7 +8,7 @@ A number plate detection program witten in JAVA. Detect number plate from images
 3) Apply sobel edge detection  
 4) Compute and smooth edge intensity(vertical projection)
 5) Locate band candidates
-6) Locate number plate in band candidates by pixel value and width/height ratio
+6) Locate rectangle in band candidates by pixel values and width/height ratio
 7) Select most favorable band as final output 
   
   
