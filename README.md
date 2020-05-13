@@ -13,8 +13,9 @@ A number plate detection program witten in JAVA. Detect number plate from images
   
   
 ## JAVA Files:
-**ANPR.java:** JAVA file to detect number plate from an image.  
-**ANPR_multi.java:** JAVA file to detect number plate from all images in the 'vehicle_images' folder.
+**ANPR.java:** Detect number plate from an image.  
+**ANPR_multi.java:** Detect number plate from all images in the 'vehicle_images' folder.  
+**plot.java:** Plot and visualize results on a graph.  
   
   
 ## Others:
