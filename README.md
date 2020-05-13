@@ -18,6 +18,6 @@ A number plate detection program witten in JAVA. Detect number plate from images
   
   
 ## Others:
-**output_img:** A folder containing output images of ANPR.java
+**output_img:** A folder containing output images of ANPR.java  
 **results_img:** A folder containing output images of ANPR_multi.java
 **vehicls_img:** A folder containing example images for the program
