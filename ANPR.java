@@ -397,11 +397,11 @@ public class ANPR {
 			int rect_height = 0;
 			double ratio = 0;
 			int numOfTraverseAllowed = 0;
-			final int MIN_EDGE_INTENSITY = 100; // minimum intensity to be considered as number plate edges
-			final int MIN_RECT_WIDTH = 70; 		// minimum width to be considered as number plate
-			final int MIN_RECT_HEIGHT = 15; 	// minimum height to be considered as number plate
-			double current_score = 100; 		// record the score for each current rectangle found within a band
-			double score = 100; 				// lowest score indicates higher probability of true number plate, returned by function
+			final int MIN_EDGE_INTENSITY = 100;   // minimum intensity to be considered as number plate edges
+			final int MIN_RECT_WIDTH = 70;        // minimum width to be considered as number plate
+			final int MIN_RECT_HEIGHT = 15;       // minimum height to be considered as number plate
+			double current_score = 100; 	      // record the score for each current rectangle found within a band
+			double score = 100; 		      // lowest score indicates higher probability of true number plate, returned by function
 			
 			// Used to crop number plate, returned by function
 			int crop_x = 0; 
