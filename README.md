@@ -1,5 +1,5 @@
 # Automatic-Number-Plate-Detection
-A number plate detection program witten in JAVA. The program attempt to localize number plate from images by looking for rectangles using pixel values and width/height ratio of number plate.
+A number plate detection program witten in JAVA. The program attempt to localize number plate by looking for rectangles in images using pixel values and width/height ratio of number plate.
   
   
 ## Implementation steps:  
